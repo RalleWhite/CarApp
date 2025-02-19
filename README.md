@@ -10,6 +10,6 @@ This CarApp is built with:
 
 ### Top contributors:
 
-<a href="https://github.com//RalleWhite/CarApp/graphs/contributors">
+<a href="https://github.com/RalleWhite/CarApp/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=RalleWhite/CarApp" alt="contrib.rocks image" />
 </a>
