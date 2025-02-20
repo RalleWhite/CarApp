@@ -11,5 +11,5 @@ This CarApp is built with:
 ### Top contributors:
 
 <a href="https://github.com/RalleWhite/CarApp/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=RalleWhite/CarApp" alt="contrib.rocks image" />
+  <img width="16" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/16px-Logo_C_sharp.svg.png?20221121173824">
 </a>
